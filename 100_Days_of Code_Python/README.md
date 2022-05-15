@@ -3,7 +3,7 @@ Projects from [100 Days of Code: The Complete Python Pro Bootcamp for 2022](http
 
 Start Date: 10/04/22
 
-Days in a row: 4 (10/04 - 13/04)
+Days in a row: 5 (10/04 - 14/04)
 
 
 - Day 1 Project: [Band Name Generator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_1_Project:_Band_Name_Generator)
