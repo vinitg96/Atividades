@@ -6,8 +6,8 @@ Start Date: 10/04/22
 Days in a row: 5 (10/04 - 14/04)
 
 
-- Day 1 Project: [Band Name Generator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_1_Project:_Band_Name_Generator)
-- Day 2 Project: [Tip Calculator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_2_Tip_Calculator)
-- Day 3 Project: [Treasure Island](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_3_Project_Treasure_Island)
-- Day 4 Project: [Rock Paper Scissors](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_4_Rock_Paper_Scissors)
-- Day 5 Project: [Create a Password Generator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_5_Project_Create_a_Password_Generator)
+- 10/04/22 - Day 1 Project: [Band Name Generator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_1_Project:_Band_Name_Generator)
+- 11/04/22 - Day 2 Project: [Tip Calculator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_2_Tip_Calculator)
+- 12/04/22 - Day 3 Project: [Treasure Island](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_3_Project_Treasure_Island)
+- 13/04/22 - Day 4 Project: [Rock Paper Scissors](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_4_Rock_Paper_Scissors)
+- 14/04/22 - Day 5 Project: [Create a Password Generator](https://github.com/vinitg96/Atividades/tree/main/100_Days_of%20Code_Python/Day_5_Project_Create_a_Password_Generator)
